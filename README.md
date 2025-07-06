@@ -63,9 +63,3 @@ ________________________________________
 - [OpenCV GitHub](https://github.com/opencv/opencv)
 - [MediaPipe Documentation](https://ai.google.dev/edge/mediapipe/solutions/guide)
 ________________________________________
-# About the Author
-Ishita Saxena\
-B.Tech CSE, KIET Group Of Institutions\
-Email: ishita.2428cse1823@kiet.edu\
-AICTE Student ID: STU67796f57012c41736011607
-________________________________________
