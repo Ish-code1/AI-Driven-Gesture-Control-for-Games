@@ -1,4 +1,10 @@
 # AI-Driven-Gesture-Control-for-Games
+## About the Author
+Ishita Saxena\
+B.Tech CSE, KIET Group Of Institutions\
+Email: ishita.2428cse1823@kiet.edu\
+AICTE Student ID: STU67796f57012c41736011607
+________________________________________
 ## Project Overview
 AI-Driven Gesture Control for Games is a capstone project that introduces a novel way to interact with digital games using real-time hand gestures. Instead of traditional keyboards or mouse, this project uses AI and computer vision to provide a touchless, immersive gaming experience.\
 Built and tested using the popular game Hill Climb Racing, the system allows players to control game actions through natural hand gestures captured via webcam.
