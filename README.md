@@ -43,16 +43,16 @@ Gesture	Action
 3.	Custom logic interprets gesture and maps it to game control.
 4.	Input is simulated using PyAutoGUI or PyDirectInput.
 ________________________________________
-# Results
+## Results
 - Performance: ~30–40ms delay in gesture detection.
 - Accuracy: Consistent gesture recognition under varied lighting and backgrounds.
 - Adaptability: Works with different hand sizes, angles, and motion variations.
 ________________________________________
-# Conclusion
+## Conclusion
 This project successfully demonstrates how machine learning and AI can enhance user interaction in gaming.\
 It promotes accessibility and offers a glimpse into the future of gesture-based interfaces across industries.
 ________________________________________
-# Future Scope
+## Future Scope
 - Global Accessibility: Assist users with physical disabilities.
 - Software & AR/VR: Apply to desktops, presentations, and immersive environments.
 - Healthcare: Use in operating rooms for touchless navigation.
