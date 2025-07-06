@@ -11,6 +11,10 @@ ________________________________________
 The system uses MediaPipe’s machine learning-based hand tracking model to detect 21 key hand landmarks and interpret gestures in real time.\
 These gestures are then mapped to in-game controls, allowing the user to play Hill Climb Racing without physical input devices.
 ________________________________________
+## Video Demonstration
+[Click Here To See Video Demo Of Project](https://drive.google.com/file/d/1KGHzO89oW9HlPLdZhbj7wnniE5LByPZk/view?usp=drive_link)
+
+________________________________________
 ## Tech Stack
 •	Libraries/Frameworks:
 - MediaPipe – ML-based hand tracking
