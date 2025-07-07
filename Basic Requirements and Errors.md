@@ -19,15 +19,15 @@ Now, in cmd of vscode(preferably) type the following after the name of folder:
 
 # Common Errors And Solutions
 
--	Type : **pip list** to   see list of installed libraries\
+-	Type : **pip list** to   see list of installed libraries
 -	**_If error arises:_** reportMissingImports\
    **Ctrl + Shift + P   →  Python: Select Interpreter    →  .\hand-gesture-env\Scripts\python.exe**\
  - **_AttributeError_**: partially initialized module ...\
-**Move the Code Out of the venv Folder**\
+**Move the Code Out of the venv Folder**
 -	**_Other Errors_**: cv2.gapi_wip_gst_GStreamerPipeline\
 	[ OpenCV is trying to access an internal GStreamer component (cv2.gapi_wip_gst_GStreamerPipeline) that isn’t properly available,
  possibly due to a corrupted or incompatible installation.] \
-**Downgrade OpenCV : opencv-python==4.9.0** \
+**Downgrade OpenCV : opencv-python==4.9.0** 
 - TO CHECK , type  : import cv2\
 print(cv2.__version__)
 
